@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AEllie-SK
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning code optimization :)
-- 💞️ I’m looking to collaborate on frontend projects
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently workin on my analytics skills and buiding my portfolio on the same:)
+- 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me: Email at seinkenaiyan@gmail.com
 
 <!---
