@@ -4,8 +4,6 @@
 
 🧠 *“Numbers tell stories. I’m here to help make them speak.”*
 
-I’m passionate about 
-
 ---
 
 ## 🌱 Currently Growing In:
