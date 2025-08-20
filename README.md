@@ -23,14 +23,13 @@
 
 # 👀 I’m Interested In:
 - Turning raw data into actionable insights that unlock opportunities in financial inclusion, healthcare, and digital development across Africa
-- **Data storytelling** — building dashboards and reports that influence decisions at scale
+- **Data storytelling**: building dashboards and reports that influence decisions at scale
 - Using AI + data for social impact, particularly with underserved groups and gender-lens tech
 - Exploring and contributing to open data innovation in Africa
 
 
 # 🤝 I’m Open to:
 - Collaborations on **data science, analysis, or software development projects**
-- Collaborations on data science, analysis, and software development projects
 - Contributing to open source or research-driven GitHub repos
 - Peer learning, mentoring, and building communities around data + tech 
 
