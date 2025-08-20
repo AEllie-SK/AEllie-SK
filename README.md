@@ -16,8 +16,7 @@
 </div>
 
 # 🌱 Currently Growing In:
-- A work in progress, but you can check it out [here](https://sites.google.com/view/elizabeth-kenaiyan-portfolio/home)
-  Expanding my data analytics portfolio with Python, SQL, Power BI, and Excel — you can check out my work [here](https://sites.google.com/view/elizabeth-kenaiyan-portfolio/home)
+- Expanding my data analytics portfolio with Python, SQL, Power BI, and Excel — you can check out my work [here](https://sites.google.com/view/elizabeth-kenaiyan-portfolio/home)
 - Leveraging AI + automation to streamline workflows and make data analysis faster, smarter, and easier
 - Applying insights from open data to real-world challenges in digital finance and health
 
